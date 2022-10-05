@@ -1,0 +1,3 @@
+﻿  ch4pileOfCoins.cpp
+C:\Users\4800590195\source\repos\ch4pileOfCoins\ch4pileOfCoins\ch4pileOfCoins.cpp(15,16): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ch4pileOfCoins.vcxproj -> C:\Users\4800590195\source\repos\ch4pileOfCoins\x64\Debug\ch4pileOfCoins.exe
